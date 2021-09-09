@@ -1,7 +1,7 @@
 \name{dijkstra}
 \alias{dijkstra}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{dijkstra
 %%  ~~function to do ... ~~
 }
 \description{
