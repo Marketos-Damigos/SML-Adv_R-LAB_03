@@ -1,12 +1,12 @@
 Package: Lab3package
 Type: Package
-Title: Dijkstras and Eucledian Algorithm
+Title: Eucledian and dijkstra Algorithms implementation
 Version: 0.1.0
-Author: Maria Treesa, Brian
-Maintainer: The package maintainer <mariatreesaa@gmail.com>
+Author: Marketos Damigos, Christoforos Spyretos
+Maintainer: Marketos Damigos <marda352@student.liu.se>
 Description: The function euclidean get the GCD of two integers while 
 	djikstra function returns the shortest path from an initial node.
-License: Apache License
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat
