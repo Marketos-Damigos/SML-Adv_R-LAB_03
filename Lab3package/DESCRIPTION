@@ -1,14 +1,14 @@
 Package: Lab3package
 Type: Package
-Title: Lab3
-Version: 1.0
-Date: 2021-09-09
-Author: Someone
-Maintainer: Marketos Damigos <marketos-damigos@gmail.com>
-Description: More about what it does (maybe more than one line)
+Title: Dijkstras and Eucledian Algorithm
+Version: 0.1.0
+Author: Maria Treesa, Brian
+Maintainer: The package maintainer <mariatreesaa@gmail.com>
+Description: The function euclidean get the GCD of two integers while 
+	djikstra function returns the shortest path from an initial node.
+License: Apache License
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat
-RoxygenNote: 6.1.0
 Depends: R (>= 2.10)
-License: Apache License
+RoxygenNote: 7.1.1

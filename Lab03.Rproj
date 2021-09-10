@@ -16,6 +16,6 @@ BuildType: Package
 PackageUseDevtools: Yes
 PackagePath: Lab3package
 PackageInstallArgs: --no-multiarch --with-keep.source
-PackageRoxygenize: rd,collate,namespace
+PackageRoxygenize: rd,collate,namespace,vignette
 
 SpellingDictionary: el_GR

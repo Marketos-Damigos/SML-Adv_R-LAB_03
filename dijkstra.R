@@ -20,3 +20,4 @@ dijkstra = function(graph, init_node) {
   }
   return(as.vector(df$dist))
 }
+
