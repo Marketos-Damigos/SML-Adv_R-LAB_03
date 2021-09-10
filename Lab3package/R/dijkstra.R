@@ -1,10 +1,12 @@
-#' Add together two numbers
+#' Dijkstra Algorithm
 #' 
+#' @author Marketos Damgios, Chrystoforos Spyretos
 #' @param graph A DataFrame.
 #' @param init_node An Int.
 #' @return Returns the shortest path to every other node from the starting node as a vector.
 #' @references \href{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Wikipedia - Dijkstra's algorithm}
-#' @examples
+#' @export dijkstra
+#' @examples 
 #' dijkstra(graph = wiki_graph,init_node = 1)
 
 
