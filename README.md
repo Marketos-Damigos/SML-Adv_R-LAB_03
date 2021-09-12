@@ -2,7 +2,6 @@
 title: "README"
 output:
   html_document:
-    toc: yes
 ---
 
 # 732A94 - Advanced R Programming  Lab 3
