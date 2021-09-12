@@ -1,10 +1,10 @@
 Package: Lab3package
 Type: Package
-Title: Eucledian and dijkstra Algorithms implementation
-Version: 0.1.0
+Title: Eucledian and Dijkstra Algorithms implementation
+Version: 1.0.0
 Author: Marketos Damigos (marda352), Christoforos Spyretos (chrsp415)
 Maintainer: Marketos Damigos <marda352@student.liu.se>
-Description: The function euclidean get the GCD of two integers while djikstra function returns the shortest path from an initial node.
+Description: Implementation of Euclidean and Dijckstra's Algorithms in R.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
