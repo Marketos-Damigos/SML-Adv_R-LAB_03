@@ -4,11 +4,10 @@ Title: Eucledian and dijkstra Algorithms implementation
 Version: 0.1.0
 Author: Marketos Damigos, Christoforos Spyretos
 Maintainer: Marketos Damigos <marda352@student.liu.se>
-Description: The function euclidean get the GCD of two integers while 
-	djikstra function returns the shortest path from an initial node.
+Description: The function euclidean get the GCD of two integers while djikstra function returns the shortest path from an initial node.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Suggests: testthat
-Depends: R (>= 2.10)
+Depends: R (>= 3.5)
 RoxygenNote: 7.1.1

@@ -15,7 +15,7 @@ dijkstra(graph, init_node)
 Returns the shortest path to every other node from the starting node as a vector.
 }
 \description{
-Dijkstra Algorithm
+Implemantation of Dijkstra's Algorithm in R.
 }
 \examples{
 dijkstra(graph = wiki_graph,init_node = 1)
