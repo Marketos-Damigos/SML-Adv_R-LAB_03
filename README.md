@@ -15,5 +15,5 @@ In order to install the package you have to use the following code
 
 For documentation regarding the functions you can do the following
 
-> ?euclidean
-> ?dijkstra
+> ?euclidean()
+> ?dijkstra()
