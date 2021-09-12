@@ -1,9 +1,3 @@
----
-title: "README"
-output:
-  html_document:
----
-
 # 732A94 - Advanced R Programming  Lab 3
 ## Overview
 Implementation of Euclidean and Dijkstra algorithm i R language by Marketos Damigos (marda352) and Christoforos Spyretos (chrsp415) for the Lab 3 of course 732A94 - Advanced R Programming.
