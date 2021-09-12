@@ -10,7 +10,8 @@ Both students contributed equally for the development of the package but the com
 ## Installation
 In order to install the package you have to use the following code
 
-> devtools::install_github("Marketos-Damigos/SML-Adv_R-LAB_03", subdir="Lab3package", auth_token = "access_token") \n
+> devtools::install_github("Marketos-Damigos/SML-Adv_R-LAB_03", subdir="Lab3package", auth_token = "access_token")
+> 
 > library(Lab3package)
 
 For documentation regarding the functions you can do the following
