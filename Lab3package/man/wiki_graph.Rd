@@ -5,20 +5,20 @@
 \alias{wiki_graph}
 \title{Wiki Graph Data}
 \format{
-A data frame with 18 rows and 3 variables
+A data frame with 18 rows and 3 variables.
 \describe{
-  \item{v1}{id of the source vertices}
-  \item{v2}{id of the destination vertices}
-  \item{w}{weight of the path taken}
+  \item{v1}{index of the source edge}
+  \item{v2}{index of the destination edge}
+  \item{w}{weight of the path}
 }
 }
 \source{
-<https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm>
+\href{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Wikipedia - Dijkstra's algorithm}
 }
 \usage{
 wiki_graph
 }
 \description{
-Wiki Graph Data
+An example data frame with 18 rows and 3 variables for the Dijkstra function. Based on the example from the \href{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Wikipedia - Dijkstra's algorithm page}.
 }
 \keyword{datasets}
