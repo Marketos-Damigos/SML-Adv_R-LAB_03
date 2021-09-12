@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+[![Build Status](https://app.travis-ci.com/Marketos-Damigos/SML-Adv_R-LAB_03.svg?token=gRD797XfREbR65fpuoXy&branch=main)](https://app.travis-ci.com/Marketos-Damigos/SML-Adv_R-LAB_03)
 
-You can use the [editor on GitHub](https://github.com/Marketos-Damigos/SML-Adv_R-LAB_03/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# 732A94 - Advanced R Programming  Lab 3
+## Overview
+Implementation of Euclidean and Dijkstra algorithm i R language by Marketos Damigos (marda352) and Christoforos Spyretos (chrsp415) for the Lab 3 of course 732A94 - Advanced R Programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contribution
+Both students contributed equally for the development of the package but the commits pushed through Marketos Damigos account and machine because of hardware problems that Christophoros Spyretos had with his laptop.
 
-### Markdown
+## Installation
+In order to install the package you have to use the following code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> devtools::install_github("Marketos-Damigos/SML-Adv_R-LAB_03", subdir="Lab3package", auth_token = "access_token") \n
+> library(Lab3package)
 
-```markdown
-Syntax highlighted code block
+For documentation regarding the functions you can do the following
 
-# Header 1
-## Header 2
-### Header 3
+> ?euclidean()
+> 
+> ?dijkstra()
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marketos-Damigos/SML-Adv_R-LAB_03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
