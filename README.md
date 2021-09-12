@@ -6,3 +6,14 @@ Implementation of Euclidean and Dijkstra algorithm i R language by Marketos Dami
 
 ## Contribution
 Both students contributed equally for the development of the package but the commits pushed through Marketos Damigos account and machine because of hardware problems that Christophoros Spyretos had with his laptop.
+
+## Installation
+In order to install the package you have to use the following code
+
+> devtools::install_github("Marketos-Damigos/SML-Adv_R-LAB_03", subdir="Lab3package", auth_token = "access_token")
+> library(Lab3package)
+
+For documentation regarding the functions you can do the following
+
+> ?euclidean
+> ?dijkstra
